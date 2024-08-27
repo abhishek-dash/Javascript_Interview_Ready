@@ -1,3 +1,5 @@
 # Javascript_Interview_Ready
-This is the repository which contains most important interview questions, asked in interview.
+
+## 1. What is Javascript? What is the role of Javascript engine?
+![alt text](image.png)
 ![alt text](assets/images/image.png)
