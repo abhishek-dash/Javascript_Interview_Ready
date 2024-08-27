@@ -151,4 +151,27 @@ elements.forEach(el => {
 
 -> Use Case: When you want to select multiple elements based on a complex selector.
 
+## 7. What are data types ?
+-> JavaScript has several data types that can be broadly categorized into two main types: __Primitive__ and __Non-Primitive (Reference types)__.
 
+### a. Primitive Data Types:
+-> Primitive data types are immutable (cannot be changed) and are accessed by value.
+```
+i. String
+ii. Number
+iii. Boolean
+iv. Undefined : Represents a variable that has been declared but not yet assigned a value.
+v. Null : It is often used to signify “no value” or “empty.”
+vi. Symbol 
+vii. BigInt
+```
+
+### b. Non-Primitive Data Types:
+-> Non-primitive data types include objects and are mutable. They are accessed by reference, meaning changes to the reference affect the original value.
+```
+i. Object
+ii. Array
+iii. Function
+iv. Date
+
+```
