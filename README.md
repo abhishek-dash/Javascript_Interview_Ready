@@ -8,6 +8,8 @@
 ![alt text](assets/images/js_engine.png)
 
 
+
+
 ## 2. What are Client side and Server side? 
 -> A client is a device, application, or software component that __requests__ and consumes services or resources from a server.
 
@@ -106,11 +108,17 @@ console.log(citrus)
 
 ```
 
+
+
+
 ## 5. What is DOM? What is the difference between HTML and DOM ? (V.IMP)
 
 -> The DOM (Document Object Model) represents the web page as a __tree like structure__ that allows javascript to dynamically access and manipulate the content and structure of the webpage.
 
 ![alt text](assets/images/DOM.png)
+
+
+
 
 ## 6. What are Selectors ?
 
@@ -150,6 +158,9 @@ elements.forEach(el => {
 ```
 
 -> Use Case: When you want to select multiple elements based on a complex selector.
+
+
+
 
 ## 7. What are data types ?
 -> JavaScript has several data types that can be broadly categorized into two main types: __Primitive__ and __Non-Primitive (Reference types)__.
