@@ -25,7 +25,7 @@
 
 ![alt text](assets/images/string_operations.png)
 
-# a. Concatenation
+### a. Concatenation
 
 ```
 //Add multiple string 
@@ -41,5 +41,55 @@ or
 let result2 = str1.concate(" ", str2);
 console.log(result2) // Output : Hello World
 ```
+
+### b. Extract a portion of the string
+
+```
+let subString = result.substring(6,11);
+console.log(subString) // Output : World
+
+```
+
+### c.Length of a String
+```
+console.log(result.length);
+// Output : 11
+ 
+```
+
+### d.Convert a string to UpperCase or LowerCase
+
+```
+console.log(result.upperCase());
+// Output : Hello World
+
+console.log(result.lowerCase());
+// Output : hello world
+
+```
+
+### e. Split a string into an array of substrings based on a delimiter
+
+```
+let arr = result.split(" ");
+console.log(arr);
+// Output : ["Hello","World"]
+
+```
+
+### f. Replace occurences of a substring within a string
+```
+console.log(result.replace("World","Javascript"));
+// Output : Hello Javascript
+```
+
+### g. Remove leading and trailing white spaces
+```
+let str = "  .Hello World    ";
+let trimmedStr = str.trim();
+console.log(trimmedStr)
+// Output : .Hello World
+```
+
 
 
