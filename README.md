@@ -8,6 +8,7 @@
 ![alt text](assets/images/js_engine.png)
 
 
+---
 
 
 ## 2. What are Client side and Server side? 
@@ -17,11 +18,19 @@
 
 ![alt text](assets/images/client_server.png)
 
+
+---
+
+
 ## 3. What are Variables? What is the difference between var,let and const ? (v.imp)
 -> Variables to use to __store__ data.
 `` var a = 12 ``
 
 ![alt text](assets/images/var_let_const.png)
+
+
+---
+
 
 ## 4. What are some important String Operations in JS?
 
@@ -109,6 +118,7 @@ console.log(citrus)
 ```
 
 
+---
 
 
 ## 5. What is DOM? What is the difference between HTML and DOM ? (V.IMP)
@@ -118,6 +128,7 @@ console.log(citrus)
 ![alt text](assets/images/DOM.png)
 
 
+---
 
 
 ## 6. What are Selectors ?
@@ -160,6 +171,7 @@ elements.forEach(el => {
 -> Use Case: When you want to select multiple elements based on a complex selector.
 
 
+---
 
 
 ## 7. What are data types ?
