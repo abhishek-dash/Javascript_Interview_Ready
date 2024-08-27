@@ -198,7 +198,7 @@ iii. Function
 iv. Date
 
 ```
-
+---
 ## 8. What are the types of contional statements ? 
 
 ![alt text](assets/images/conditional_statement.png)
