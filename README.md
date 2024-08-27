@@ -37,8 +37,9 @@ console.log(result) // Output : Hello World
 
 or 
 
-```
 // Using concate() method
 let result2 = str1.concate(" ", str2);
 console.log(result2) // Output : Hello World
+```
+
 
