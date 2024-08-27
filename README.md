@@ -20,3 +20,25 @@
 `` var a = 12 ``
 
 ![alt text](assets/images/var_let_const.png)
+
+## 4. What are some important String Operations in JS?
+
+![alt text](assets/images/string_operations.png)
+
+# a. Concatenation
+
+```
+//Add multiple string 
+let str1 = "Hello";
+let str2 = "World";
+let result = str1 + " " + str2;
+console.log(result) // Output : Hello World
+
+
+or 
+
+```
+// Using concate() method
+let result2 = str1.concate(" ", str2);
+console.log(result2) // Output : Hello World
+
