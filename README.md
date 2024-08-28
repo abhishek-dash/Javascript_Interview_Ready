@@ -202,3 +202,52 @@ iv. Date
 ## 8. What are the types of contional statements ? 
 
 ![alt text](assets/images/conditional_statement.png)
+
+## 9. What are Functions ? What are the types of functions?
+
+-> A Function is a __reusable block of code__ that performs a specific task.
+
+![alt text](assets/images/function.png)
+
+### Types of Functions -
+```
+i. Named Function
+ii. Anonymous Function
+iii. Function Expression
+iv. Arrow Function
+v. IIFE
+vi. Callback Function
+vii. Higher Order Function
+```
+
+---
+
+
+## 10. What are Arrow Functions ? What is it use? (V.IMP)
+-> Arrow functions, also known as fat arrow functions, is a simpler and shorter way for defining functions in javascript.
+
+```
+const add = (x,y) => x + y;
+```
+
+## 11. What are Arrays in Javascript? How to get,add & remove elements from arrays? (V.Imp)
+-> An Array is a data type that allows you to store multiple values in a single variable.
+
+![alt text](assets/images/array_methods.png)
+
+### Pictorial representation of important method of arrays
+
+![alt text](assets/images/important_methods_arr.png)
+
+## 12. What is Scope in Javascript? (V.IMP)
+
+-> Scope determines where variables are defined and where they can be accessed.
+
+### Types of Scope -
+```
+i. Global Scope
+ii. Function Scope
+iii. Block Scope
+```
+
+
